@@ -1,0 +1,24 @@
+body{
+background-color: #000000cb;
+color: aliceblue;
+}
+
+.sobre_nos{
+    background-color: rgb(124, 113, 10);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*display: flex;
+    align-items: center;
+    justify-content: center;*/
+}
+
+.social_media{
+    text-align: right;
+    float: right;
+    position: right;
+    top: auto;
+    left: auto;
+    right: auto;
+    background-color: black;
+    height: 20px; /* ajuste a altura conforme necessário */
+    width: 100%; /* ocupará toda a largura da tela */
+}
